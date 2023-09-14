@@ -8,5 +8,6 @@ public class J10a_arrayChallange {
         String names[] = { "Ania", "Ola", "Daniel", "Karol", "Kasia"};
 
         BufferedReader reader = new BufferedReader( new InputStreamReader(System.in));
+        // ten tekst jest testowy
     }
 }
