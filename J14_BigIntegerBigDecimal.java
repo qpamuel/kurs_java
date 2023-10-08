@@ -1,5 +1,5 @@
 package com.example.basics.data;
-
+//8.10.2023
 import java.math.BigDecimal;
 import java.math.BigInteger;
 
