@@ -39,7 +39,7 @@ public class J14_BigIntegerBigDecimal {
         decimal = decimal.abs();
         System.out.println("Wynik: " + decimal);
 
-                System.out.println("Wynik: " + bigInt.toString()); - plus to operator konkatenacji
+        System.out.println("Wynik: " + bigInt.toString()); - plus to operator konkatenacji
          */
 
 
