@@ -1,5 +1,6 @@
 package com.example.basics.data;
-//8.10.2023
+//8.10.2023 - lesson arrange by Kuba Wąsikowski
+// "https://www.udemy.com/course/kurs-java-od-podstaw-od-zera-do-mastera-zbuduj-wlasne-aplikacje/learn/lecture/23522418#overview"
 import java.math.BigDecimal;
 import java.math.BigInteger;
 
