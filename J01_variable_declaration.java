@@ -1,5 +1,5 @@
 package com.example.basics.data.types;
-
+//test of githib date
 public class J01_variable_declaration {
     public static void main (String args[]){
         int number = 24;
