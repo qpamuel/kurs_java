@@ -1,5 +1,5 @@
 package com.example.basics.data.types;
-
+//test kolejny.. licze, że przejdzie 
 public class J02_byte_short_int_long {
     public static void main (String args []){
         /* Wskazuje się w ten sposób ile miejsca dla tej zmiennej należy przypisać dla danej zmiennej. Zakres miejsca powinnien być większy niż potrzeba.
