@@ -1,5 +1,5 @@
 package com.example.basics.control_block_statements;
-// 26.10.2023 - lesson arrange by Kuba Wąsikowski
+// 31.10.2023 - lesson arrange by Kuba Wąsikowski
 //lekcja 58 - https://www.udemy.com/course/kurs-java-od-podstaw-od-zera-do-mastera-zbuduj-wlasne-aplikacje/learn/lecture/23728598#overview
 
 public class J49_InfiniteLoop {

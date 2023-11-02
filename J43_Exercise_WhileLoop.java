@@ -1,5 +1,5 @@
 package com.example.basics.control_block_statements;
-// 26.10.2023 - lesson arrange by Kuba Wąsikowski
+// 30.10.2023 - lesson arrange by Kuba Wąsikowski
 //lekcja 52 - https://www.udemy.com/course/kurs-java-od-podstaw-od-zera-do-mastera-zbuduj-wlasne-aplikacje/learn/lecture/32717228#overview
 
 public class J43_Exercise_WhileLoop {

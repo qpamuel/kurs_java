@@ -1,5 +1,5 @@
 package com.example.basics.control_block_statements;
-// 26.10.2023 - lesson arrange by Kuba Wąsikowski
+// 29.10.2023 - lesson arrange by Kuba Wąsikowski
 //lekcja 45 https://www.udemy.com/course/kurs-java-od-podstaw-od-zera-do-mastera-zbuduj-wlasne-aplikacje/learn/lecture/32706170#overview
 public class J36_Exercise_TernaryOperators {
     public static void main(String args[]){

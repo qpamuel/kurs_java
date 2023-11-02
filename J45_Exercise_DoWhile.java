@@ -1,4 +1,6 @@
 package com.example.basics.control_block_statements;
+// 31.10.2023 - lesson arrange by Kuba Wąsikowski
+//lekcja 54 - https://www.udemy.com/course/kurs-java-od-podstaw-od-zera-do-mastera-zbuduj-wlasne-aplikacje/learn/lecture/32717234#overview
 
 public class J45_Exercise_DoWhile {
     public static void main(String[] args) {
