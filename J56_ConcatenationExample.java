@@ -1,5 +1,5 @@
 package com.example.basics.data.string_class;
-// 03.11.2023 - lesson arrange by Kuba Wąsikowski
+// 06.11.2023 - lesson arrange by Kuba Wąsikowski
 //lekcja 65 - https://www.udemy.com/course/kurs-java-od-podstaw-od-zera-do-mastera-zbuduj-wlasne-aplikacje/learn/lecture/23728910#overview
 // https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/String.html
 public class J56_ConcatenationExample {
