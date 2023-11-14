@@ -18,7 +18,7 @@ class Car {
     }
 }
 
-public class J75_CarExample {
+public class J75_Object_Oriented_Programming {
     public static void main(String[] args) {
 
         Car ford = new Car();
